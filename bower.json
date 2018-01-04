@@ -1,12 +1,12 @@
 {
-  "name": "HTML",
+  "name": "Omega",
   "authors": [
     "OmegaCom <omegacom.site@gmail.com>"
   ],
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/rahmai/omega2",
   "private": true,
   "ignore": [
     "**/.*",
